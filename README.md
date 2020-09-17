@@ -1,4 +1,4 @@
-# mask_detector
+# Mask Detector
 
 Mask Detector - detects your face and classifies whether you are wearing a face mask or not streaming through webcam
 
