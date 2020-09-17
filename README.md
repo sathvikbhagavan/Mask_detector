@@ -2,7 +2,7 @@
 
 Mask Detector - detects your face and classifies whether you are wearing a face mask or not streaming through webcam
 
-This project uses a pretrained Caffemodel for face recognition and a Conv Net Classifier for classifying mask or non mask
+This project uses a pretrained Caffemodel for face recognition and a Conv Net Classifier for classifying mask or non mask (training set only contains white masks)
 
 Required Modules : OpenCV, Tensorflow(>2.0), Keras
 
